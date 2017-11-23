@@ -1,4 +1,4 @@
-#D. Quijote de la Mancha
+# D. Quijote de la Mancha
 
 >En un lugar de la *Mancha*, de cuyo nombre no quiero acordarme,no ha 
 mucho tiempo que vivía un hidalgo de los de lanza en astillero,adarga 
@@ -25,13 +25,13 @@ narración dél no se salga un punto de la verdad.
 
 ****************************************************************************
 
-#Title 1
+# Title 1
 
-##Title 2
+## Title 2
 
-##Title 3
+## Title 3
 
-###Title 4
+### Title 4
 
 ------------------------------------------------------------------------
 
